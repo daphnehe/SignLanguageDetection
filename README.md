@@ -3,4 +3,4 @@ Real time sign language detection (action recognition)
 
 (This is a work in progress)
 
-I will not be uploading my collected image data for privacy.
+I will not be uploading image data collected through cv2 video capture for privacy.
